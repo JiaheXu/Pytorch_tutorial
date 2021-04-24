@@ -1,0 +1,8 @@
+# Load data and seperate them to training sets and validation sets
+# Build the network structure
+# Set device
+# Set hyperparameter
+# Initialize network
+# Set loss and optimizer
+# Train network
+# check accuracy
